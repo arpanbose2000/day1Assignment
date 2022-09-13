@@ -1,3 +1,3 @@
 Some content within f1.txt file.
 Added new content within f1.txt
-
+Added new line in a new branch

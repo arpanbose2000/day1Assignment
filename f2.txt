@@ -1,0 +1,1 @@
+This is text inside the f2.txt fles which is to be saved.

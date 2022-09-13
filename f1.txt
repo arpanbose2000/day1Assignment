@@ -1,0 +1,1 @@
+Some content within f1.txt file.
